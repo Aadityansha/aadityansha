@@ -1,6 +1,5 @@
 
 ### Hi there, I'm Aadityansha Patel !! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" /> </p>
 
 ### 🚀 About Me
 I'm a boy who learns to code and makes various stuff
@@ -27,3 +26,7 @@ I'm a boy who learns to code and makes various stuff
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" />
 </p>
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" /> </p>
