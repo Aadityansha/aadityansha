@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Aadityansha/aadityansha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Aadityansha Patel !! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" /> </p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a boy who learns to code and makes various stuff
+## 🏋️‍♀️ Some more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 I'm currently working on to improve myself
+
+🧠 I'm currently learning how to live life
+
+👯‍♀️ I'm looking to collaborate with a good codr
+
+🤔 I'm looking for help with a good codr
+
+⚡️ Fun fact: I'm a full stack web developer also
+<br>
+<h3 align="left">🔨 Languages and Tools:</h3>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" />
+</p>
