@@ -13,7 +13,7 @@ I'm a boy who learns to code and makes various stuff
 
 🤔 I'm looking for help with a good codr
 
-⚡️ Fun fact: I'm a full stack web developer also
+⚡️ Fun fact: I'm a <code>full stack web developer</code> also
 <br>
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p>
