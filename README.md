@@ -15,6 +15,14 @@ I'm a boy who learns to code and makes various stuff
 
 ⚡️ Fun fact: I'm a <code>full stack web developer</code> also
 <br>
+
+<h3>Projects</h3>
+<ul>
+<li>
+  👙 Gender Prediction : <a href="https://aadityansha.github.io/gender-prediction/" target="_blank">https://aadityansha.github.io/gender-prediction/</a>
+</ii>
+</ul>
+
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" />
