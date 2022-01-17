@@ -19,7 +19,7 @@ I'm a boy who learns to code and makes various stuff
 <h3> ⛲ Projects</h3>
 <ul>
 <li>
-  👙 Gender Prediction : <a href="https://aadityansha.github.io/gender-prediction/" target="_blank">https://aadityansha.github.io/gender-prediction/</a>
+  👙 Gender Prediction :  [ <a href="https://aadityansha.github.io/gender-prediction/" target="_blank">https://aadityansha.github.io/gender-prediction/</a> ]
 </ii>
 </ul>
 
