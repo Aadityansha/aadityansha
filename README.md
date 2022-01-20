@@ -20,6 +20,7 @@ I'm a boy who learns to code and makes various stuff
 <ul>
 <li>
   👙 Gender Prediction :  [ <a href="https://aadityansha.github.io/gender-prediction/" target="_blank">https://aadityansha.github.io/gender-prediction/</a> ]
+  🔗URL Shortner: [ <a href="https://aadityansha.github.io/URL-Shortner/" target="_blank">https://aadityansha.github.io/URL-Shortner/</a> ]
 </ii>
 </ul>
 
