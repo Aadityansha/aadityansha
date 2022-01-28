@@ -1,9 +1,8 @@
+<h1 align="center">Hi there, I'm Aadityansha Patel !! 👋</h1>
 
-### Hi there, I'm Aadityansha Patel !! 👋
+<h3 align="center">I'm a boy who learns to code and makes various stuff 🚀</h3>
 
-### 🚀 About Me
-I'm a boy who learns to code and makes various stuff
-## 🏋️‍♀️ Some more about me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" /> </p>
 
 👩‍💻 I'm currently working on to improve myself
 
@@ -40,4 +39,3 @@ I'm a boy who learns to code and makes various stuff
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" /> </p>
