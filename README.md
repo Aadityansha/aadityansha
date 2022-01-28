@@ -15,6 +15,9 @@
 <h2>Projects 📂</h2>
 
 - 👙 **Gender Prediction** : **[https://aadityansha.github.io/gender-prediction](https://aadityansha.github.io/gender-prediction/)**
+
+<br>
+
 - 🔗 **URL Shortner** :  **[https://aadityansha.github.io/URL-Shortner/](https://aadityansha.github.io/URL-Shortner/)**
 
 <h3 align="left">🔨 Languages and Tools:</h3>
@@ -32,5 +35,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityansha&show_icons=true&locale=en&layout=compact" alt="aadityansha" /></p>
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityansha&show_icons=true&locale=en" alt="aadityansha" /></p>
