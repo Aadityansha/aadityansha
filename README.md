@@ -6,22 +6,16 @@
 
 - 👩‍💻 I'm currently working on to improve myself
 
-- 🧠 I'm currently learning **Machine Learning**
+- 🧠 I'm currently learning <b>Machine Learning</b>
 
-- 👯‍♀️ I'm looking to collaborate on **open source project**
+- 👯‍♀️ I'm looking to collaborate on <b>open source project</b>
 
 - 🤔 I'm looking for help with a good codr
-<br>
 
-<h3> ⛲ Projects</h3>
-<ul>
-<li>
-  👙 Gender Prediction :  [ <a href="https://aadityansha.github.io/gender-prediction/" target="_blank">https://aadityansha.github.io/gender-prediction/</a> ]
-</li>
-<li>
-  🔗URL Shortner: [ <a href="https://aadityansha.github.io/URL-Shortner/" target="_blank">https://aadityansha.github.io/URL-Shortner/</a> ]
-</ii>
-</ul>
+<h3>Projects 🛠</h3>
+
+- 👙 Gender Prediction : **[View Project](https://aadityansha.github.io/gender-prediction)**
+- 🔗URL Shortner: [ <a href="https://aadityansha.github.io/URL-Shortner/" target="_blank">https://aadityansha.github.io/URL-Shortner/</a> ]
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p>
