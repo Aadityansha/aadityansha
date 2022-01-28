@@ -33,6 +33,6 @@
 <br>
 
 ## My Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityansha&show_icons=true&locale=en&layout=compact&theme=react" alt="aadityansha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityansha&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="aadityansha" /></p>
 
-<p>&nbsp;<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=aadityansha&show_icons=true&locale=en&theme=react" alt="aadityansha" /></p>
+<p>&nbsp;<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=aadityansha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aadityansha" /></p>
