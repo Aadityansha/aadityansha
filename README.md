@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" /> </p>
 
-👩‍💻 I'm currently working on to improve myself
+- 👩‍💻 I'm currently working on to improve myself
 
-🧠 I'm currently learning how to live life
+- 🧠 I'm currently learning **Machine Learning**
 
-👯‍♀️ I'm looking to collaborate with a good codr
+- 👯‍♀️ I'm looking to collaborate on **open source project**
 
-🤔 I'm looking for help with a good codr
-
-⚡️ Fun fact: I'm a <code>full stack web developer</code> also
+- 🤔 I'm looking for help with a good codr
 <br>
 
 <h3> ⛲ Projects</h3>
