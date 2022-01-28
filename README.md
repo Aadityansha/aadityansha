@@ -36,3 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityansha&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="aadityansha" /></p>
 
 <p>&nbsp;<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=aadityansha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aadityansha" /></p>
+
+<br>
+
+<a href="https://github.com/Aadityansha/github-readme-activity-graph"><img alt="Aadityansha Patel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aadityansha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
