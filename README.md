@@ -16,6 +16,8 @@
 
 <h2>Projects 📂</h2>
 
+<br>
+
 - 👙 **Gender Prediction** : **[https://aadityansha.github.io/gender-prediction](https://aadityansha.github.io/gender-prediction/)**
 
 - 🔗 **URL Shortner** :  **[https://aadityansha.github.io/URL-Shortner/](https://aadityansha.github.io/URL-Shortner/)**
