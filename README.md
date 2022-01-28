@@ -6,13 +6,13 @@
 <a href="https://github.com/Aadityansha"><img src="https://img.shields.io/github/followers/Aadityansha?label=Followers&style=social" alt="GitHub Badge"></a>
 </p> 
 
-- 👩‍💻 I'm currently working on **to improve myself**
-
-- 🧠 I'm currently **learning Machine Learning**
+- 👷🏼‍♂️ I'm currently working on **to improve myself**
 
 - 👯‍♀️ I'm looking to collaborate on **open source project**
 
-- 🤔 My goal this year is **to contribute more on github**
+- 🎣 My goal this year is **to contribute more on github**
+
+- 💰 I want to **start a StartUp**
 
 <h2>Projects 📂</h2>
 
