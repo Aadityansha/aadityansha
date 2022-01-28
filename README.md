@@ -14,8 +14,8 @@
 
 <h3>Projects 🛠</h3>
 
-- 👙 Gender Prediction : **[View Project](https://aadityansha.github.io/gender-prediction)**
-- 🔗URL Shortner: [ <a href="https://aadityansha.github.io/URL-Shortner/" target="_blank">https://aadityansha.github.io/URL-Shortner/</a> ]
+- 👙 Gender Prediction : **[https://aadityansha.github.io/gender-prediction](https://aadityansha.github.io/gender-prediction/)**
+- 🔗URL Shortner :  **[https://aadityansha.github.io/URL-Shortner/](https://aadityansha.github.io/URL-Shortner/)**
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p>
