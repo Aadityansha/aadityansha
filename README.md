@@ -20,8 +20,14 @@
 
 - 🔗 **URL Shortner** :  **[https://aadityansha.github.io/URL-Shortner/](https://aadityansha.github.io/URL-Shortner/)**
 
+<br>
+
 <h2 align="left">🔨 Languages and Tools:</h2>
+
+<br>
+
 <p>
+  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30" />
