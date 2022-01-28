@@ -34,8 +34,8 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityansha&show_icons=true&locale=en&layout=compact" alt="aadityansha" /></p>
-
-<br>
-
+## My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityansha&show_icons=true&locale=en" alt="aadityansha" /></p>
+
+## My Most Used Language<
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityansha&show_icons=true&locale=en&layout=compact" alt="aadityansha" /></p>
