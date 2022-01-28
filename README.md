@@ -6,6 +6,8 @@
 <a href="https://github.com/Aadityansha"><img src="https://img.shields.io/github/followers/Aadityansha?label=Followers&style=social" alt="GitHub Badge"></a>
 </p> 
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 👷🏼‍♂️ I'm currently working on **to improve myself**
 
 - 👯‍♀️ I'm looking to collaborate on **open source project**
