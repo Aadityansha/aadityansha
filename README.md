@@ -2,7 +2,9 @@
 
 <h3 align="center">I'm a boy who learns to code and makes various stuff 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityansha&label=Profile%20views&color=0e75b6&style=flat" alt="aadityansha" />
+<a href="https://github.com/Aadityansha"><img src="https://img.shields.io/github/followers/Aadityansha?label=Followers&style=social" alt="GitHub Badge"></a>
+</p> 
 
 - 👩‍💻 I'm currently working on to improve myself
 
