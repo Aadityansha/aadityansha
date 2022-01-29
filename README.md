@@ -6,7 +6,7 @@
 <a href="https://github.com/Aadityansha"><img src="https://img.shields.io/github/followers/Aadityansha?label=Followers&style=social" alt="GitHub Badge"></a>
 </p> 
 
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" align="right" width="300x">
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" align="right" width="350x">
 
 - 👷🏼‍♂️ I'm currently working on **to improve myself**
 
@@ -15,6 +15,8 @@
 - 🎣 My goal this year is **to contribute more on github**
 
 - 💰 I want to **start a StartUp**
+
+<br><br>
 
 <h2>Projects 📂</h2>
 
