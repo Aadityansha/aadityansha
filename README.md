@@ -31,8 +31,6 @@
 
 </p>
 
-<br>
-
 <h2>📉 My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityansha&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="aadityansha" /></p>
 
