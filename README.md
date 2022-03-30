@@ -6,7 +6,7 @@
 
 - 👯‍♀️ I'm looking to collaborate on **open source project**
 
-- 🎣 My goal this year is **to contribute more on github**
+- 🎣 My Aim this year is **to contribute more on github**
 
 - 💰 I want to **start a StartUp**
 
