@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 , I'm Aadityansha Patel !!</h1>
 
-<h3 align="center">Enjoying programming and dreaming metaverse :octocat</h3>
+<h3 align="center">Enjoying programming and dreaming metaverse :octocat:</h3>
 
 - 👷🏼‍♂️ I'm currently working on **to improve myself**
 
