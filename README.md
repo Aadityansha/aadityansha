@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 , I'm Aadityansha Patel !!</h1>
 
-<h3 align="center">I'm a boy who learns to code and makes various stuff 🚀</h3>
+<h3 align="center">Enjoying programming and dreaming metaverse.</h3>
 
 - 👷🏼‍♂️ I'm currently working on **to improve myself**
 
