@@ -4,11 +4,9 @@
 
 - 👷🏼‍♂️ I'm currently working on **to improve myself**
 
-- 👯‍♀️ I'm looking to collaborate on **open source project**
+- 🌱 I’m currently learning **Flutter**
 
 - 🎣 My Aim this year is **to contribute more on github**
-
-- 💰 I want to **start a StartUp**
 
 ## 🔨 Languages and Tools:
 
