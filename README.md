@@ -4,7 +4,7 @@
 
 - 👷🏼‍♂️ I'm currently working on **to improve myself**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **App Development**
 
 - 🎣 My Aim this year is **to contribute more on github**
 
