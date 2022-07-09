@@ -27,9 +27,3 @@ I'm <b>Aadityansha Patel</b>, I love technology and code. I am from India.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<h3>My Github Stats</h3>
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadityansha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
